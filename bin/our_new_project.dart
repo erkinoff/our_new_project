@@ -4,4 +4,5 @@ void main(List<String> args) {
   print("Good idea👍");
   print(
       "Vazifa nimedi o'zi? ulanishshi tekshirse bo'ldimi? yoki ubu proyekt qivorishmi");
+  print("Vazifa faqat shuni ulab birga ishlab korish edi");
 }
