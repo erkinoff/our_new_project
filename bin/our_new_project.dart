@@ -8,4 +8,5 @@ void main(List<String> args) {
 
   print("Moshina viuy viuy dedi");
   print("Iyee moshinamiz viuvladi dedi");
+  print("Bir marta viyu dedida toxtadi");
 }
