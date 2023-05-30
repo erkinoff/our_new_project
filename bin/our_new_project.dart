@@ -12,4 +12,5 @@ void main(List<String> args) {
   print("Ikkinchi marta viyu viyu viyu dedida...");
   print("Pak dedida varrrr etib svetini yaqmasdan");
   print("Mashina manaqqarab turardi. Varrrrrrr etib manaqqarab ketvordi😂😂");
+  print("Tugadi😂😂😂");
 }
