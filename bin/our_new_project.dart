@@ -7,4 +7,5 @@ void main(List<String> args) {
   print("Vazifa faqat shuni ulab birga ishlab korish edi");
 
   print("Moshina viuy viuy dedi");
+  print("Iyee moshinamiz viuvladi dedi");
 }
